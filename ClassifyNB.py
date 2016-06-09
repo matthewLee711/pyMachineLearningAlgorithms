@@ -4,9 +4,9 @@ def classify(features_train, labels_train):
     ### create classifier
     clf = GaussianNB()
     ### fit the classifier on the training features and labels
-    return clf.fit(features_train, labels_train)
     ### return the fit classifier
+    return clf.fit(features_train, labels_train)
+    
    
         
-    ### your code goes here!
     

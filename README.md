@@ -4,11 +4,13 @@ Just a repository of some basic machine learning algorithms
 
 Will include:
 
+SVM -- classifySVM.py
+Naive Bayes -- classify.py
+
 Linear Regression
 Logistic Regression
 Decision Tree
-SVM
-Naive Bayes
+
 KNN
 K-Means
 Random Forest
