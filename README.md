@@ -1,35 +1,37 @@
 # pyMachineLearningAlgorithms
 
+Python and machine learning! A basic repository for understanding machine learning.
+
 ## classifierNotes
 
 Contains juypter notes about machine learning algorithms:
 
-Perceptron
+> Perceptron
 
 More coming..
 
 ## classifiers
 
-A folder of scikit and coded classifiers 
+A folder of scikit and coded classifiers
 
 Will include:
 
-SVM -- classifySVM.py
+> SVM -- classifySVM.py
 
-Naive Bayes -- classify.py
+> Naive Bayes -- classify.py
 
-Linear Regression
+> Linear Regression
 
-Logistic Regression
+> Logistic Regression
 
-Decision Tree -- classifyDecisionTree.py
+> Decision Tree -- classifyDecisionTree.py
 
-KNN
+> KNN
 
-K-Means
+> K-Means
 
-Random Forest
+> Random Forest
 
-Dimensionality Reduction Algorithms
+> Dimensionality Reduction Algorithms
 
-Gradient Boost & Adaboost
+> Gradient Boost & Adaboost
