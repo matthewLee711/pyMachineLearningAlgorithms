@@ -1,6 +1,16 @@
 # pyMachineLearningAlgorithms
 
-Just a repository of some basic machine learning algorithms
+## classifierNotes
+
+Contains juypter notes about machine learning algorithms:
+
+Perceptron
+
+More coming..
+
+## classifiers
+
+A folder of scikit and coded classifiers 
 
 Will include:
 
